@@ -1,0 +1,25 @@
+{
+  "name": "ng-msa-pa-token-client",
+  "version": "1.0.0-RC1",
+  "description": "Projeto Client do MSA-TOKEN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevaoi/ng-msa-pa-token-client.git"
+  },
+  "author": "Pablo Flanmarion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevaoi/ng-msa-pa-token-client/issues"
+  },
+  "homepage": "https://github.com/estevaoi/ng-msa-pa-token-client#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
